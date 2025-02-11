@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.11 (EBAC_graficos_pratica)" />
+=======
+    <option name="sdkName" value="Python 3.11 (EBAC_PROJETO2)" />
+>>>>>>> d09d491 (Projeto 3 -EBAC-)
   </component>
 </project>

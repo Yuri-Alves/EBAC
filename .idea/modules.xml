@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/EBAC_graficos_pratica.iml" filepath="$PROJECT_DIR$/.idea/EBAC_graficos_pratica.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/EBAC_PROJETO2.iml" filepath="$PROJECT_DIR$/.idea/EBAC_PROJETO2.iml" />
+>>>>>>> d09d491 (Projeto 3 -EBAC-)
     </modules>
   </component>
 </project>
